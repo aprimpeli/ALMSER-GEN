@@ -2,13 +2,11 @@
 
 This repository contains the code for reproducing the results of the paper "Active Learning for Multi-Source Entity Matching: How do the Characteristics of the Task Impact Performance?".
 
-Due to the large size of files containing the data, we provide the generated multi-source matching tasks (584 MB) and benchmark tasks (103M) as zip files here:
-
-http://data.dws.informatik.uni-mannheim.de/benchmarkmatchingtasks/almser_gen_data/
+Due to the large size of files containing the data, we provide the generated multi-source matching tasks (584 MB) and benchmark tasks (103M) as zip files [here](http://data.dws.informatik.uni-mannheim.de/benchmarkmatchingtasks/almser_gen_data/)
 
 Each task, contains all necessary data for reproducing the results of the paper. Additionally, we provide in the results directory of every setting, the result files of ALMSER, ALMSERgroup and HeALER query strategies.
-If you want to run any of the above strategies, please use the ALMSER-GB code located at:
-https://github.com/wbsg-uni-mannheim/ALMSER-GB.git
+If you want to run any of the above strategies, please use the ALMSER-GB code located [here](https://github.com/wbsg-uni-mannheim/ALMSER-GB.git)
+
 
 # INSTALLATION OF REQUIRED PACKAGES:
 
